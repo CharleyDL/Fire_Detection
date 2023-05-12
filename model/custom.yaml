@@ -1,0 +1,7 @@
+path: C:\Users\utilisateur\Documents\SIMPLON_x_ISEN\env_VSC-Windows\Brief\wildfire_detection\data
+train: train/images
+val: valid/images
+
+## -- Classes and Classes names
+nc: 2
+names: ['fire', 'smoke']
