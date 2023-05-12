@@ -34,7 +34,12 @@
   <figure>
     <img width="450" alt="Picture Detection" src="https://github.com/CharleyDL/fire_detection/assets/21961841/ad44b85f-51d6-4fe9-aa0e-7b197e5b1335">
   </figure>
-</div> 
+  
+  <figure>
+    <img width="450" alt="Picture Detection" src="https://github.com/CharleyDL/fire_detection/assets/21961841/dca6d4c8-4198-4ee7-8e01-9f120f2dcde9">
+  </figure>
+</div>
+
 
 # Cleanup for your own usage
 
