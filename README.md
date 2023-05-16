@@ -40,11 +40,19 @@
   </figure>
 </div>
 
+# Next Features 🔮
+- Upgrade the saving in DB (currently image-frame multiple detection -> one entry per detection | Future : image-frame with multiple detection -> one entry (all labels / bounding boxes)
+- Page to watch the saving data
+- Video detection from an url 
+- Saving the detection on your computer (Button download), not only in DB
+- Possibility to change weight / model
+- Add a confidence cursor
+
+
 
 # Cleanup for your own usage
 
 You can safely remove the following files/folders from repo root:
-
 - `.github/`
 - `LICENSE`
 - `README.md`
