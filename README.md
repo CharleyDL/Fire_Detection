@@ -47,6 +47,7 @@
 - Saving the detection on your computer (Button download), not only in DB
 - Possibility to change weight / model
 - Add a confidence cursor
+- Add a loader during processing
 
 
 
